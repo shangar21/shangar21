@@ -18,6 +18,7 @@ Brown boy 👨🏾 that enjoys learning machine learning, algorithms, webscrapin
 ## Programming languages
 - Python
 - C
+- C++
 - Java
 - HTML/CSS
 - SQL/SQLite
