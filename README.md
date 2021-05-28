@@ -43,7 +43,7 @@ Brown boy 👨🏾 that enjoys learning machine learning, algorithms, webscrapin
 
 <center>
 
-## Remember kids alcohol is just combustible water
+## “Give a kid a smoke and he’ll be happy for a day. Teach him how to smoke… he’ll be happy for his whole shortened life.” – Eikichi Onizuka
 <img src="img/tenor.gif" alt>
 
 </center>
