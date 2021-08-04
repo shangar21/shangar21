@@ -37,7 +37,8 @@ Brown boy 👨🏾 that enjoys learning machine learning, algorithms, webscrapin
 - Bash Shell/ Windows CMD
 
 ## Hobbies
-- Learning programming concepts such as machine learning, algorithms, webscraping and more
+- Learning programming concepts 
+- boxing
 - walking and playing with my dogs
 - anime and manga
 - listening to podcasts and music
