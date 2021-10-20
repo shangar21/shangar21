@@ -16,32 +16,32 @@
 Brown boy 👨🏾 that enjoys messing around and seeing what I can find out about data, learning machine learning, algorithms, webscraping and automation. I am also a Student at UTSC working towards a degree in statistics. 
 
 ## Programming languages
-- Python
-- R
+- [Python](https://github.com/shangar21/ML-python/)
+- [R](https://github.com/shangar21/R_language_learning)
 - C
-- C++
-- Java
-- HTML/CSS
-- SQL/SQLite
+- [C++](https://github.com/shangar21/chess_engine)
+- [Java](https://github.com/shangar21/doctor-appt-app)
+- [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
+- [SQL/SQLite](https://github.com/shangar21/best-cscb63-website)
   
 ## Software and Frameworks
-- Django
-- Flask
+- [Django](https://github.com/shangar21/learn_django)
+- [Flask](https://github.com/shangar21/best-cscb63-website)
 - Git
 - Linux (Debian and Arch)
-- Numpy
-- Pytorch
-- Tensorflow
-- Selenium
+- [Numpy](https://github.com/shangar21/ML-python/tree/master/Scratch%20Neural%20Networks)
+- [Pytorch](https://github.com/shangar21/ML-python/tree/master/pytorch_NN)
+- [Tensorflow](https://github.com/shangar21/yuHacks21-1)
+- [Selenium](https://github.com/shangar21/gi_scraper)
 - Aircrack-ng
 - Bash Shell/ Windows CMD
 
 ## Hobbies
 - Learning programming concepts 
-- boxing
-- walking and playing with my dogs
-- anime and manga
-- listening to podcasts and music
+- [boxing](https://www.instagram.com/scarberianboxing/)
+- [walking and playing with my dogs](https://www.instagram.com/rex_and_ryno/)
+- [anime and manga](https://myanimelist.net/profile/shangar21)
+- [listening to podcasts and music](https://open.spotify.com/user/sharanshangar)
 
 <center>
 
