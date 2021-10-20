@@ -13,7 +13,7 @@
 ## [Check out my website, I'm especially proud of it since I deployed it on my own server and set up SSL and everything 😋](https://shangar.site)
 
 ## Summary
-Brown boy 👨🏾 that enjoys learning machine learning, algorithms, webscraping and automation. I am also a Student at UTSC working towards a degree in statistics. 
+Brown boy 👨🏾 that enjoys messing around and seeing what I can find out about data, learning machine learning, algorithms, webscraping and automation. I am also a Student at UTSC working towards a degree in statistics. 
 
 ## Programming languages
 - Python
