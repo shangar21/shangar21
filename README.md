@@ -18,7 +18,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 ## Programming languages
 - [Python](https://github.com/shangar21/ML-python/)
 - [R](https://github.com/shangar21/R_language_learning)
-- C
+- [C](https://github.com/shangar21/csca48)
 - [C++](https://github.com/shangar21/chess_engine)
 - [Java](https://github.com/shangar21/doctor-appt-app)
 - [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
@@ -26,6 +26,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
   
 ## Software and Frameworks
 - [Django](https://github.com/shangar21/learn_django)
+- Pandas
 - [Flask](https://github.com/shangar21/best-cscb63-website)
 - Git
 - Linux (Debian and Arch)
