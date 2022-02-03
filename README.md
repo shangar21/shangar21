@@ -34,8 +34,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 - [Pytorch](https://github.com/shangar21/ML-python/tree/master/pytorch_NN)
 - [Tensorflow](https://github.com/shangar21/yuHacks21-1)
 - [Selenium](https://github.com/shangar21/gi_scraper)
-- Aircrack-ng
-- Bash Shell/ Windows CMD
+- Bash Shell/Zsh Shell/Windows CMD
 
 ## Hobbies
 - Learning programming concepts 
