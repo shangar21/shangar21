@@ -38,7 +38,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 
 ## Hobbies
 - Learning programming concepts 
-- [boxing](https://www.instagram.com/scarberianboxing/)
+- [boxing](https://www.instagram.com/scarberianboxingclub/)
 - [walking and playing with my dogs](https://www.instagram.com/rex_and_ryno/)
 - [anime and manga](https://myanimelist.net/profile/shangar21)
 - [listening to podcasts and music](https://open.spotify.com/user/sharanshangar)
