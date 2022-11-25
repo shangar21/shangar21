@@ -45,6 +45,8 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 
 <center>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangar21&count_private=true&show_icons=true&theme=dark&hide=contribs)
+
 ## “Give a kid a smoke and he’ll be happy for a day. Teach him how to smoke… he’ll be happy for his whole shortened life.” – Eikichi Onizuka
 <img src="img/tenor.gif" alt>
 
