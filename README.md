@@ -1,6 +1,8 @@
 # Shangar Muhunthan's GitHub Palooza 🥳
 *My oh my would you look at the time* 😈 <sub>its demon time</sub>
 
+[![shangar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangar21)](https://github.com/anuraghazra/github-readme-stats)
+
 <center>
 <p>
     <img src="img/AmazingImpossibleCollie-max-1mb.gif" alt>
