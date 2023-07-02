@@ -25,6 +25,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 - [Java](https://github.com/shangar21/doctor-appt-app)
 - [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
 - [SQL/SQLite](https://github.com/shangar21/best-cscb63-website)
+- Rust
   
 ## Software and Frameworks
 - [Django](https://github.com/shangar21/learn_django)
