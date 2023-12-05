@@ -1,16 +1,17 @@
 # Shangar Muhunthan's GitHub Palooza 🥳
-*My oh my would you look at the time* 😈 <sub>its demon time</sub>
+
+<!--*My oh my would you look at the time* 😈 <sub>its demon time</sub>-->
 
 <!--[![shangar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangar21)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<center>
+<!--<center>
 <p>
     <img src="img/AmazingImpossibleCollie-max-1mb.gif" alt>
 </p>
 <p>
     <em>Hey There</em>
 </p>
-</center>
+</center>-->
 
 ## [Check out my website, I'm especially proud of it since I deployed it on my own server and set up SSL and everything 😋](https://shangar.site)
 
@@ -26,6 +27,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 - [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
 - [SQL/SQLite](https://github.com/shangar21/best-cscb63-website)
 - Rust
+- CUDA
   
 ## Software and Frameworks
 - [Django](https://github.com/shangar21/learn_django)
