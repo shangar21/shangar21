@@ -1,22 +1,9 @@
 # Shangar Muhunthan's GitHub Palooza 🥳
 
-<!--*My oh my would you look at the time* 😈 <sub>its demon time</sub>-->
-
-<!--[![shangar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangar21)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--<center>
-<p>
-    <img src="img/AmazingImpossibleCollie-max-1mb.gif" alt>
-</p>
-<p>
-    <em>Hey There</em>
-</p>
-</center>-->
-
-## [Check out my website, I'm especially proud of it since I deployed it on my own server and set up SSL and everything 😋](https://shangar.site)
+## [Check out my website](https://shangar.site)
 
 ## Summary
-Brown boy 👨🏾 that enjoys messing around and seeing what I can find out about data, learning reinforcement learning, machine learning, algorithms, webscraping and automation. I am also a Student at UTSC working towards a degree in statistics. 
+Unergrad at U of T. Interested in ML applications, specifically in computer vision and graphics. Currently undergrad resercher working on Scene Representation. Also a data scientist. Skilled in CUDA, C++, Python. Holl at ya boi ;)
 
 ## Programming languages
 - [Python](https://github.com/shangar21/ML-python/)
@@ -27,7 +14,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 - [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
 - [SQL/SQLite](https://github.com/shangar21/best-cscb63-website)
 - Rust
-- CUDA
+- [CUDA](https://github.com/shangar21/raytracing)
   
 ## Software and Frameworks
 - [Django](https://github.com/shangar21/learn_django)
@@ -36,7 +23,7 @@ Brown boy 👨🏾 that enjoys messing around and seeing what I can find out abo
 - Git
 - Linux (Debian and Arch)
 - [Numpy](https://github.com/shangar21/ML-python/tree/master/Scratch%20Neural%20Networks)
-- [Pytorch](https://github.com/shangar21/ML-python/tree/master/pytorch_NN)
+- [Pytorch](https://github.com/shangar21/compubox)
 - [Tensorflow](https://github.com/shangar21/yuHacks21-1)
 - [Selenium](https://github.com/shangar21/gi_scraper)
 - Bash Shell/Zsh Shell/Windows CMD
