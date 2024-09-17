@@ -3,7 +3,7 @@
 ## [Check out my website](https://shangar.site)
 
 ## Summary
-Unergrad at U of T. Interested in ML applications, specifically in computer vision and graphics. Currently undergrad resercher working on Scene Representation. Also a data scientist. Skilled in CUDA, C++, Python. Holl at ya boi ;)
+Undergrad at U of T. Interested in ML applications, specifically in computer vision and graphics. Currently undergrad resercher working on Scene Representation. Also a data scientist. Skilled in CUDA, C++, Python. Holla at ya boi ;)
 
 ## Programming languages
 - [Python](https://github.com/shangar21/ML-python/)
