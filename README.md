@@ -13,8 +13,8 @@ Undergrad at U of T. Interested in ML applications, specifically in computer vis
 - [Java](https://github.com/shangar21/doctor-appt-app)
 - [HTML/CSS](https://github.com/shangar21/best-cscb63-website/tree/main/templates)
 - [SQL/SQLite](https://github.com/shangar21/best-cscb63-website)
-- Rust
-- [CUDA](https://github.com/shangar21/raytracing)
+- [Rust](https://github.com/shangar21/audio-engine)
+- [CUDA](https://github.com/shangar21/MeshRenderer)
   
 ## Software and Frameworks
 - [Django](https://github.com/shangar21/learn_django)
