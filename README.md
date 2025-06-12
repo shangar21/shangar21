@@ -31,6 +31,7 @@ Undergrad at U of T. Interested in ML applications, specifically in computer vis
 ## Hobbies
 - Learning programming concepts 
 - [boxing](https://www.instagram.com/scarberianboxingclub/)
+- [muay thai](https://www.instagram.com/markhammartialarts)
 - [walking and playing with my dogs](https://www.instagram.com/rex_and_ryno/)
 - [anime and manga](https://myanimelist.net/profile/shangar21)
 - [listening to podcasts and music](https://open.spotify.com/user/sharanshangar)
